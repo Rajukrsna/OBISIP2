@@ -1,4 +1,4 @@
-# OBISIP2
+# Portfolio
 Welcome to my personal portfolio repository! This project serves as an online showcase of my skills, achievements, and educational background. Feel free to explore and learn more about my journey.
 
 Technologies Used
